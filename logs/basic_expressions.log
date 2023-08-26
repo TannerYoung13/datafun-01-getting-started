@@ -1,11 +1,9 @@
-2023-08-26 11:09:41,861.basic_expressions.INFO ==================================================
-2023-08-26 11:09:41,861.basic_expressions.INFO Today is 2023-08-26 at 11:09 AM
-2023-08-26 11:09:41,888.basic_expressions.INFO Running on: nt Windows 10
-2023-08-26 11:09:41,888.basic_expressions.INFO Python version:  3.11.4
-2023-08-26 11:09:41,888.basic_expressions.INFO Python path: C:\Users\ksu09\AppData\Local\Programs\Python\Python311
-2023-08-26 11:09:41,889.basic_expressions.INFO Working dir: C:\Users\ksu09\Intro to Python\datafun-01-getting-started
-2023-08-26 11:09:41,889.basic_expressions.INFO ==================================================
-2023-08-26 11:09:41,889.basic_expressions.INFO Given base=15 and height=5, triangle area = 37.5
-2023-08-26 11:09:41,890.basic_expressions.INFO Given float_num1=1.9 and float_num2=2.9, sum = 4.8
-2023-08-26 11:09:41,890.basic_expressions.INFO Given num1=59 and num2=13, the difference = 46
-2023-08-26 11:09:41,890.basic_expressions.INFO Given width=9 and length=4, rectangle area = 36
+2023-08-26 14:56:28,218.basic_expressions.INFO ==================================================
+2023-08-26 14:56:28,219.basic_expressions.INFO Today is 2023-08-26 at 02:56 PM
+2023-08-26 14:56:28,241.basic_expressions.INFO Running on: nt Windows 10
+2023-08-26 14:56:28,242.basic_expressions.INFO Python version:  3.11.4
+2023-08-26 14:56:28,242.basic_expressions.INFO Python path: C:\Users\ksu09\AppData\Local\Programs\Python\Python311
+2023-08-26 14:56:28,242.basic_expressions.INFO Working dir: C:\Users\ksu09\Intro to Python\datafun-01-getting-started
+2023-08-26 14:56:28,243.basic_expressions.INFO ==================================================
+2023-08-26 14:56:28,253.basic_expressions.INFO Mean, median, and mode for data a is =20 20.0, 20
+2023-08-26 14:56:28,254.basic_expressions.INFO Mean, median, and mode for data b is =20 20.0, 20
