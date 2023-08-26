@@ -1,0 +1,18 @@
+2023-08-26 11:02:22,181.acquainted.INFO ==================================================
+2023-08-26 11:02:22,182.acquainted.INFO Today is 2023-08-26 at 11:02 AM
+2023-08-26 11:02:22,204.acquainted.INFO Running on: nt Windows 10
+2023-08-26 11:02:22,205.acquainted.INFO Python version:  3.11.4
+2023-08-26 11:02:22,205.acquainted.INFO Python path: C:\Users\ksu09\AppData\Local\Programs\Python\Python311
+2023-08-26 11:02:22,205.acquainted.INFO Working dir: C:\Users\ksu09\Intro to Python\datafun-01-getting-started
+2023-08-26 11:02:22,206.acquainted.INFO ==================================================
+2023-08-26 11:02:22,207.acquainted.INFO Name: Tanner Young 
+2023-08-26 11:02:22,207.acquainted.INFO State: Kansas
+2023-08-26 11:02:22,207.acquainted.INFO Country: USA
+2023-08-26 11:02:22,207.acquainted.INFO Pet count: 1
+2023-08-26 11:02:22,208.acquainted.INFO Double the pet count: 2
+2023-08-26 11:02:22,208.acquainted.INFO Skill count: 1
+2023-08-26 11:02:22,208.acquainted.INFO Temperature: 99
+2023-08-26 11:02:22,209.acquainted.INFO Pet weight: 14
+2023-08-26 11:02:22,209.acquainted.INFO Has dog: True
+2023-08-26 11:02:22,209.acquainted.INFO Likes analytics: True
+2023-08-26 11:02:22,209.acquainted.INFO Likes Python: False
